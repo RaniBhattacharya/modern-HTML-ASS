@@ -1,0 +1,36 @@
+1. List out the features of HTML5?
+=>
+HTML5, the latest version of Hypertext Markup Language, offers several key features: 
+
+1. Semantic Elements: New tags like <header>, <nav>, and <footer> for better structuring.
+2. Multimedia Support: Native audio and video playback.
+3. Canvas and SVG: Graphics rendering for interactive visuals.
+4. Improved Forms: Enhanced input types and validation.
+5. Geolocation API: Access to user location.
+6. Offline Storage: Local storage and caching.
+7. Cross-Platform Compatibility: Designed for various devices and browsers.
+
+
+2.What are HTML Entities? List out 5 commonly used HTML Entities?
+=>
+HTML entities are special codes used to represent characters and symbols in HTML, ensuring they display correctly in a web page. Here are five commonly used HTML entities:
+
+1. &lt; - Less than sign (<)
+2. &gt; - Greater than sign (>)
+3. &amp; - Ampersand (&)
+4. &quot; - Double quotation mark (")
+5. &copy; - Copyright symbol (©)
+
+3.Define accessibility in the context of web development .Discuss why it's essential to create accessible websites and how it benefits different user groups?
+=>
+Web accessibility ensures that websites and web content are usable by people with disabilities, including those with visual, auditory, motor, or cognitive impairments. It is essential as it promotes inclusivity and usability for a broader audience, improving the user experience for all, enhancing SEO, and ensuring legal compliance with regulations like the ADA and WCAG.
+
+
+4.List any 3 ways which help us in improving the accessibility of HTML?
+=>
+Improving the accessibility of HTML can be achieved through various means. Here are three ways:
+
+1. Semantic HTML: Use appropriate tags (e.g., <header>, <nav>, <button>) to provide clear document structure.
+2. Alt Text: Include descriptive alt attributes for images to assist users with visual impairments.
+3. ARIA (Accessible Rich Internet Applications): Implement ARIA roles and attributes to enhance the accessibility of dynamic content like sliders and modal dialogs.
+
